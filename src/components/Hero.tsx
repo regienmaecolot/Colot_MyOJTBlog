@@ -40,7 +40,7 @@ export function Hero() {
 
           {/* Name */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl mb-6 text-[#F3F4F7]">
-            <span className="inline-block">Your Name</span>
+            <span className="inline-block">Regien Mae D. Colot</span>
           </h1>
 
           {/* Tagline */}
