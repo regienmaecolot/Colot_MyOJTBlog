@@ -39,9 +39,8 @@ export default function App() {
     }
   }
 
-  // Show main portfolio page
   return (
-    <div className="min-h-screen bg-[#0D0D12]">
+    <div className="site-shell">
       <Navigation />
       <Hero />
       <About />
